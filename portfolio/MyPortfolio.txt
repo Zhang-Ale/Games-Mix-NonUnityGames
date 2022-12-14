@@ -1,0 +1,102 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>GAME 601 Portfolio (Fall 2022)</title>
+  <meta name="description" content="What I made in GAME 601 (Game Programming) at American University in Fall 2022">
+  <meta name="author" content="YOUR NAME">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+</head>
+<body>
+  <div class="jumbotron bg-dark text-white m-0">
+    <h1 class="display-4">Mike Treanor</h1>
+    <p class="lead">My games from GAME 601 - Game Prototyping at American University in Fall 2021</p>
+  </div>
+  <div class="card">
+    <div class="card-header h3">Game Modification: Checkers but better!</div>
+    <div class="card-body row">
+      <div class="col-4">
+        <img class="img-fluid" src="castle.jpeg">
+      </div>
+      <div class="col-6">
+        I thought it would be cool to make a better version of checkers. So I did this.
+      </div>
+      <div class="col-2">
+        <a class="btn btn-primary btn-block" href="HLupa_GameModification.pdf" role="button">PLAY</a>
+      </div>
+    </div>
+  </div>
+  <div class="card">
+    <div class="card-header h3">(Midterm) Non-Digital Game: YOUR TITLE HERE</div>
+    <div class="card-body row">
+      <div class="col-4">
+        <img class="img-fluid" src="FILE_NAME_OF_IMAGE">
+      </div>
+      <div class="col-6">
+        REPLACE THIS WITH YOUR DESCRIPTION PARAGRAPH
+      </div>
+      <div class="col-2">
+        <a class="btn btn-primary btn-block" href="YOUR_MIDTERM_FILENAME.pdf" role="button">PLAY</a>
+      </div>
+    </div>
+  </div>
+  <div class="card">
+    <div class="card-header h3">Hypertext Fiction: YOUR TITLE HERE</div>
+    <div class="card-body row">
+      <div class="col-4">
+        <img class="img-fluid" src="FILE_NAME_OF_IMAGE">
+      </div>
+      <div class="col-6">
+        REPLACE THIS WITH YOUR DESCRIPTION PARAGRAPH
+      </div>
+      <div class="col-2">
+        <a class="btn btn-primary btn-block" href="./twine/index.html" role="button">PLAY</a>
+      </div>
+    </div>
+  </div>
+  <div class="card">
+    <div class="card-header h3">Interactive Fiction: YOUR TITLE HERE</div>
+    <div class="card-body row">
+      <div class="col-4">
+        <img class="img-fluid" src="FILE_NAME_OF_IMAGE">
+      </div>
+      <div class="col-6">
+        REPLACE THIS WITH YOUR DESCRIPTION PARAGRAPH
+      </div>
+      <div class="col-2">
+        <a class="btn btn-primary btn-block" href="./inform/play.html" role="button">PLAY</a>
+      </div>
+    </div>
+  </div>
+  <div class="card">
+    <div class="card-header h3">Programming with p5js</div>
+    <div class="card-body row">
+      <div class="col-4">
+        <img class="img-fluid" src="FILE_NAME_OF_IMAGE">
+      </div>
+      <div class="col-6">
+        REPLACE THIS WITH YOUR DESCRIPTION PARAGRAPH
+      </div>
+      <div class="col-2">
+        <a class="btn btn-primary btn-block" href="./p5/index.html" role="button">PLAY</a>
+      </div>
+    </div>
+  </div>
+  <div class="card">
+    <div class="card-header h3">(Final) Digital Game: YOUR TITLE HERE</div>
+    <div class="card-body row">
+      <div class="col-4">
+        <img class="img-fluid" src="FILE_NAME_OF_IMAGE">
+      </div>
+      <div class="col-6">
+        REPLACE THIS WITH YOUR DESCRIPTION PARAGRAPH
+      </div>
+      <div class="col-2">
+        <a class="btn btn-primary btn-block" href="./final/index.html" role="button">PLAY</a>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
