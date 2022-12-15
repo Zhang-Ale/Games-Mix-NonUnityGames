@@ -24,7 +24,7 @@
         League of Legends has some very broken aspects and they need to be nerfed. So I did this. 
       </div>
       <div class="col-2">
-        <a class="btn btn-primary btn-block" href="HLupa_GameModification.pdf" role="button">PLAY</a>
+        <a class="btn btn-primary btn-block" href="https://github.com/Zhang-Ale/game601-fall2022/blob/main/game%20modification/GAME%20MODIFICATION%20-%20Nerfs%20to%20League.pdf" role="button">PLAY</a>
       </div>
     </div>
   </div>
@@ -38,7 +38,7 @@
         KINGDOM'S CALL is a multiplayer roleplay card game in which you have to kill your opponents using your cards and your hero's ability. 
       </div>
       <div class="col-2">
-        <a class="btn btn-primary btn-block" href="YOUR_MIDTERM_FILENAME.pdf" role="button">PLAY</a>
+        <a class="btn btn-primary btn-block" href="https://github.com/Zhang-Ale/game601-fall2022/tree/main/midterm/Kingdom's%20call" role="button">PLAY</a>
       </div>
     </div>
   </div>
@@ -52,7 +52,7 @@
         You play the role of an introvert visiting the bar. As the time passes, more people start to come in, which makes you very uncomfortable. Find a way to leave the bar. 
       </div>
       <div class="col-2">
-        <a class="btn btn-primary btn-block" href="./twine/index.html" role="button">PLAY</a>
+        <a class="btn btn-primary btn-block" href="https://zhang-ale.github.io/game601-fall2022/inform/" role="button">PLAY</a>
       </div>
     </div>
   </div>
@@ -66,7 +66,7 @@
         In the Underworld, souls eat souls, ghosts eat ghosts. No survived spirit in this world is innocent and pure. Now, you arrived to this world. First, you need to understand the rule of survival. 
       </div>
       <div class="col-2">
-        <a class="btn btn-primary btn-block" href="./inform/play.html" role="button">PLAY</a>
+        <a class="btn btn-primary btn-block" href="http://Zhang-Ale.github.io/game601-fall2022/twine/" role="button">PLAY</a>
       </div>
     </div>
   </div>
@@ -80,7 +80,7 @@
         Click to your heart's content, to see the magic ball bouncing on the screen. 
       </div>
       <div class="col-2">
-        <a class="btn btn-primary btn-block" href="./p5/index.html" role="button">PLAY</a>
+        <a class="btn btn-primary btn-block" href="https://openprocessing.org/sketch/1670708" role="button">PLAY</a>
       </div>
     </div>
   </div>
@@ -94,7 +94,7 @@
         She’s a girl that no one can see or touch, but occasionally, you became the only person who can see her. 
       </div>
       <div class="col-2">
-        <a class="btn btn-primary btn-block" href="./final/index.html" role="button">PLAY</a>
+        <a class="btn btn-primary btn-block" href="zhang-ale.github.io/game601-fall2022/final/Love%20snow.html" role="button">PLAY</a>
       </div>
     </div>
   </div>
