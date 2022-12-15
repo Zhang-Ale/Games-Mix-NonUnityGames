@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <title>GAME 601 Portfolio (Fall 2022)</title>
   <meta name="description" content="What I made in GAME 601 (Game Programming) at American University in Fall 2022">
-  <meta name="author" content="YOUR NAME">
+  <meta name="author" content="HongCheng Zhang">
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
 </head>
@@ -15,13 +15,13 @@
     <p class="lead">My games from GAME 601 - Game Prototyping at American University in Fall 2021</p>
   </div>
   <div class="card">
-    <div class="card-header h3">Game Modification: Checkers but better!</div>
+    <div class="card-header h3">Game Modification: Nerfs to League!</div>
     <div class="card-body row">
       <div class="col-4">
-        <img class="img-fluid" src="castle.jpeg">
+        <img class="img-fluid" src="LoL_icon.svg.png">
       </div>
       <div class="col-6">
-        I thought it would be cool to make a better version of checkers. So I did this.
+        League of Legends has some very broken aspects and they need to be nerfed. So I did this. 
       </div>
       <div class="col-2">
         <a class="btn btn-primary btn-block" href="HLupa_GameModification.pdf" role="button">PLAY</a>
@@ -29,13 +29,13 @@
     </div>
   </div>
   <div class="card">
-    <div class="card-header h3">(Midterm) Non-Digital Game: YOUR TITLE HERE</div>
+    <div class="card-header h3">(Midterm) Non-Digital Game: KINGDOM'S CALL</div>
     <div class="card-body row">
       <div class="col-4">
-        <img class="img-fluid" src="FILE_NAME_OF_IMAGE">
+        <img class="img-fluid" src="GameFront.png">
       </div>
       <div class="col-6">
-        REPLACE THIS WITH YOUR DESCRIPTION PARAGRAPH
+        KINGDOM'S CALL is a multiplayer roleplay card game in which you have to kill your opponents using your cards and your hero's ability. 
       </div>
       <div class="col-2">
         <a class="btn btn-primary btn-block" href="YOUR_MIDTERM_FILENAME.pdf" role="button">PLAY</a>
@@ -43,13 +43,13 @@
     </div>
   </div>
   <div class="card">
-    <div class="card-header h3">Hypertext Fiction: YOUR TITLE HERE</div>
+    <div class="card-header h3">Hypertext Fiction: The introvert is at bar</div>
     <div class="card-body row">
       <div class="col-4">
-        <img class="img-fluid" src="FILE_NAME_OF_IMAGE">
+        <img class="img-fluid" src="InformImage.png">
       </div>
       <div class="col-6">
-        REPLACE THIS WITH YOUR DESCRIPTION PARAGRAPH
+        You play the role of an introvert visiting the bar. As the time passes, more people start to come in, which makes you very uncomfortable. Find a way to leave the bar. 
       </div>
       <div class="col-2">
         <a class="btn btn-primary btn-block" href="./twine/index.html" role="button">PLAY</a>
@@ -57,13 +57,13 @@
     </div>
   </div>
   <div class="card">
-    <div class="card-header h3">Interactive Fiction: YOUR TITLE HERE</div>
+    <div class="card-header h3">Interactive Fiction: Underworld</div>
     <div class="card-body row">
       <div class="col-4">
-        <img class="img-fluid" src="FILE_NAME_OF_IMAGE">
+        <img class="img-fluid" src="TwineImage.png">
       </div>
       <div class="col-6">
-        REPLACE THIS WITH YOUR DESCRIPTION PARAGRAPH
+        In the Underworld, souls eat souls, ghosts eat ghosts. No survived spirit in this world is innocent and pure. Now, you arrived to this world. First, you need to understand the rule of survival. 
       </div>
       <div class="col-2">
         <a class="btn btn-primary btn-block" href="./inform/play.html" role="button">PLAY</a>
@@ -74,10 +74,10 @@
     <div class="card-header h3">Programming with p5js</div>
     <div class="card-body row">
       <div class="col-4">
-        <img class="img-fluid" src="FILE_NAME_OF_IMAGE">
+        <img class="img-fluid" src="Ball bouncing">
       </div>
       <div class="col-6">
-        REPLACE THIS WITH YOUR DESCRIPTION PARAGRAPH
+        Click to your heart's content, to see the magic ball bouncing on the screen. 
       </div>
       <div class="col-2">
         <a class="btn btn-primary btn-block" href="./p5/index.html" role="button">PLAY</a>
@@ -85,13 +85,13 @@
     </div>
   </div>
   <div class="card">
-    <div class="card-header h3">(Final) Digital Game: YOUR TITLE HERE</div>
+    <div class="card-header h3">(Final) Digital Game: Like Snow</div>
     <div class="card-body row">
       <div class="col-4">
-        <img class="img-fluid" src="FILE_NAME_OF_IMAGE">
+        <img class="img-fluid" src="LikeSnowImage.PNG">
       </div>
       <div class="col-6">
-        REPLACE THIS WITH YOUR DESCRIPTION PARAGRAPH
+        She’s a girl that no one can see or touch, but occasionally, you became the only person who can see her. 
       </div>
       <div class="col-2">
         <a class="btn btn-primary btn-block" href="./final/index.html" role="button">PLAY</a>
