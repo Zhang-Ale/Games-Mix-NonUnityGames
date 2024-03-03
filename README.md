@@ -1,2 +1,2 @@
-# game601-fall2022
+# A mix of games done on different platforms
  Assignment in class
