@@ -14,5 +14,6 @@
 [**Link to "Snowflakes"**](https://rawcdn.githack.com/Zhang-Ale/Games-Mix-NonUnityGames/e63e4fcb6478696626090d6c69cbed5172e4945e/p5_game/p5-Snowflakes/index.html)<br>
 [**Link to "Visual_Hypnosis"**](https://rawcdn.githack.com/Zhang-Ale/Games-Mix-NonUnityGames/e63e4fcb6478696626090d6c69cbed5172e4945e/p5_game/p5-Visual_Hypnosis/index.html)<br>
 
-**4. Twine (visual novel game):** "Like Snow" is a visual novel game made with Twine. Enjoy the story with my handmade digital sketches! <br>
+**4. Twine (visual novel game):** "Like Snow" and "That Day Peter Stepped into the Bus" are two visual novel games made with Twine. Both are fictional stories. <br>
 [**Link to "Like Snow"**](https://rawcdn.githack.com/Zhang-Ale/Games-Mix-NonUnityGames/468d2b7ec2d61898bb9f307141e350f4075301e7/twine_game/Like%20Snow.html)<br>
+[**Link to "That Day Peter Stepped into the Bus"**](https://rawcdn.githack.com/Zhang-Ale/Games-Mix-NonUnityGames/b70949549211b1ed045579006f42947b9ab92cb3/twine_game/That%20day%20Peter%20stepped%20into%20the%20bus.html) 
