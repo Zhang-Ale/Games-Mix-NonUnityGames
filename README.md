@@ -7,7 +7,7 @@
 
 
 **3. p5 editor (web visualizations):** There are 5 projects in this folder made with p5 editor (written in p5 javascript language). Each project is more of a visual design than a game, that reflects on something which can be a mood, a mind state, an object, or an self-improvement.  <br>
-https://zhang-ale.github.io/p5_game/p5-Ball_Bouncing/index.html
+https://htmlpreview.github.io/?https://zhang-ale.github.io/p5_game/p5-Ball_Bouncing/index.html
 
 
 **4. Twine (visual novel game):** "Like Snow" is a visual novel game made with Twine. Enjoy the story with my handmade digital sketches! <br><br>
