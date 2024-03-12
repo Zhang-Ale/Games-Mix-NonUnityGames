@@ -3,10 +3,11 @@
 <br>
 **1. Card game (board game):** "Kingdom's Call" is a multiplayer roleplay game in which the players play the roles of King, Knight, Rebel, and Traitor. At the beginning of the game, all the players' identities are unknown except for the King, who must collaborate with the Knights to find and kill the Rebels and Traitor. The latter's objective is to kill the King to subvert the regime, in two different ways: the Rebels win if they kill the King; the Traitor wins if he/she kills the Rebels first, and then kills the King. The recommended number of players for this game is 8 players, with the roles of 1 King, 2 Knights, 1 Traitor, and 4 Rebels. <br>
 
-**2. Inform (interactive narrative game):** "The introvert is at the bar" is a narrative game made with Inform. The player needs to write terms in the editing space while trying to understand the surrounding place, people, and objects, and find the objective that he/she needs to accomplish. <br>
+**2. Inform (interactive narrative game):** "The Introvert is at the bar" is a narrative game made with Inform. The player needs to write terms in the editing space while trying to understand the surrounding place, people, and objects, and find the objective that he/she needs to accomplish. <br>
 
 
-**3. p5 editor (web visualizations):** there are 5 projects in this folder made with p5 editor (written in p5 javascript language). Each project is more of a visual design than a game, that reflects on something which can be a mood, a mind state, an object, or an self-improvement.  <br>
+**3. p5 editor (web visualizations):** There are 5 projects in this folder made with p5 editor (written in p5 javascript language). Each project is more of a visual design than a game, that reflects on something which can be a mood, a mind state, an object, or an self-improvement.  <br>
+
 
 
 **4. Twine (visual novel game):** "Like Snow" is a visual novel game made with Twine. Enjoy the story with my handmade digital sketches! <br><br>
