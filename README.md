@@ -1,5 +1,5 @@
 # A mix of games not done in Unity
-**Game types and platforms:** <br>
+**Game platforms & types:** <br>
 <br>
 **1. Card game (board game):** "Kingdom's Call" is a multiplayer roleplay game in which the players play the roles of King, Knight, Rebel, and Traitor. At the beginning of the game, all the players' identities are unknown except for the King, who must collaborate with the Knights to find and kill the Rebels and Traitor. The latter's objective is to kill the King to subvert the regime, in two ways: the Rebels win if they kill the King; the Traitor wins if he/she kills the Rebels first, and then kills the King. The recommended number of players for this game is 8 players, with the roles of 1 King, 2 Knights, 1 Traitor, and 4 Rebels. <br>
 
